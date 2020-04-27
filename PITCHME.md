@@ -1,8 +1,8 @@
-# Let's Get **Started**
+# SM Let's Get **Started**
 
 ---
 
-### Add Some Slide Candy
+### This is your first demo
 
 ![IMAGE](assets/img/presentation.png)
 
