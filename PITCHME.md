@@ -2,7 +2,7 @@
 
 ---
 
-### This is your first demo
+### My Simple Load Balancer
 
 ![IMAGE](assets/img/presentation.png)
 
